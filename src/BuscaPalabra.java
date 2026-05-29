@@ -1,5 +1,3 @@
-package Pablo;
-
 /**
  * Clase que almacena una frase y permite comprobar
  * si una palabra se encuentra dentro de ella.

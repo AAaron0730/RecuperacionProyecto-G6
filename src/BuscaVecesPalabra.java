@@ -1,5 +1,3 @@
-package Pablo;
-
 /**
  * Clase que almacena una frase y permite contar
  * cuántas veces aparece una palabra en ella.
