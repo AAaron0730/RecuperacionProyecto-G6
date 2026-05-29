@@ -8,7 +8,7 @@ package Aaron;
 	    private String cadena;
 
 	    /**
-	     * Constructor de la clase CantidadCaracter.
+	     * Constructor de la clase CantidadCaracterr.
 	     *
 	     * @param cadena Cadena de texto sobre la que se realizará la búsqueda.
 	     */

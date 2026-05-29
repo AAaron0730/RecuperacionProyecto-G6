@@ -8,7 +8,7 @@ package Aaron;
 	    private String frase;
 
 	    /**
-	     * Constructor de la clase EliminaEspacios.
+	     * Constructor de la clase EliminaEspacioss.
 	     *
 	     * @param frase Cadena de texto que se va a procesar.
 	     */
