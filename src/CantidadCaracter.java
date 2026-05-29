@@ -1,4 +1,4 @@
-package Aaron;
+
 
 	/**
 	 * Clase que almacena una cadena y permite contar cuántas veces

@@ -1,5 +1,5 @@
 
-package Aaron;
+
 	 
 	/**
 	 * Clase que almacena una frase y permite eliminar sus espacios.

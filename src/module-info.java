@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module ProyectoEntornosG6Recuperacion {
-}
