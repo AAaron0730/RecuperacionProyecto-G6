@@ -10,7 +10,7 @@
 	    /**
 	     * Constructor de la clase EliminaEspacioss.
 	     *
-	     * @param frase Cadena de texto que se va a procesar.
+	     * @param frase Cadena de texto que se va a procesarr.
 	     */
 	    public EliminaEspacios(String frase) {
 	        this.frase = frase;

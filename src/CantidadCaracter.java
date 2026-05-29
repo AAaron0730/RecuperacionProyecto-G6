@@ -8,7 +8,7 @@
 	    private String cadena;
 
 	    /**
-	     * Constructor de la clase CantidadCaracterr.
+	     * Constructor de la clase CantidadCaracter.
 	     *
 	     * @param cadena Cadena de texto sobre la que se realizará la búsqueda.
 	     */
