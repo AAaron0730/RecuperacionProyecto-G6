@@ -1,7 +1,7 @@
 package src;
 
 /**
- * Clase que almacena una frase y permite comprobar
+ * Clase que almacena una frase y permite comprobarr
  * si una palabra se encuentra dentro de ella.
  */
 public class BuscaPalabra {
